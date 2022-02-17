@@ -113,6 +113,10 @@ house or making one yourself.
         [datasheet](http://www.hammondmfg.com/pdf/1590XX.pdf)
 
         ![1590XX](img/5161.jpg)
+    
+      * Alpha RD901F
+        [tayda](https://www.taydaelectronics.com/500k-ohm-logarithmic-taper-potentiometer-round-shaft-pcb-9mm.html)
+        [datasheet](https://www.taydaelectronics.com/datasheets/A-1856.pdf)
 
 
   </details>
