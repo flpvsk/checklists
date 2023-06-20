@@ -141,3 +141,8 @@ house or making one yourself.
 
 * [ ] [Synth schematics mistakes
   blog](https://northcoastsynthesis.com/news/design-mistakes-in-synth-schematics/)
+
+* [ ] Add [jlc order number placeholder.](https://support.jlcpcb.com/article/28-how-to-remove-order-number-from-your-pcb)
+    <details><summary>Description from JLC website</summary>
+    Just "JLCJLCJLCJLC", No more or less characters. The font size should be larger than 0.8mm in height and 0.15 mm in width.
+    </details>
