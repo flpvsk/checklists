@@ -126,6 +126,8 @@ house or making one yourself.
 
 * [ ] Make sure test points are in place.
 
+* [ ] Label pots, switches, headers etc
+
 * [ ] Check input and output impedances.
 
 * [ ] Check there is enough space on the top face of the
