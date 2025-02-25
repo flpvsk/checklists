@@ -62,6 +62,13 @@ house or making one yourself.
 
       ![Rean Neutrik Mono](img/A-1009.jpg)
 
+      * 6.35mm 1/4" Stereo Insulated Switched Cylindrical Socket Jack PCB Pins (aka small footprint jack)
+      [tayda](https://www.taydaelectronics.com/6-35mm-1-4-stereo-insulated-switched-cylindrical-socket-jack-pcb-pins.html)
+      [datasheet](https://www.taydaelectronics.com/datasheets/files/A-6446_PJ-663A.pdf)
+
+      ![6.35mm 1/4" Stereo Insulated Switched Jack](https://github.com/user-attachments/assets/5dc26525-5711-46a9-b841-6acc5c3ccd51)
+
+
   * DC Jacks
 
       * DC Power Jack 2.1mm Barrel-Type PCB Mount
