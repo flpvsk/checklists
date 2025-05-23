@@ -135,6 +135,8 @@ house or making one yourself.
 
 * [ ] Label pots, switches, headers etc
 
+* [ ] Add a silkscreen window for a serial number
+
 * [ ] Check input and output impedances.
 
 * [ ] Check there is enough space on the top face of the
