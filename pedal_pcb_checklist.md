@@ -131,6 +131,8 @@ house or making one yourself.
 * [ ] Check all the ICs are connected to power / GND and have
   bypass caps.
 
+* [ ] Make sure neighbooring pins on an IC ***are not*** routed in a single straight line.
+
 * [ ] Make sure test points are in place.
 
 * [ ] Label pots, switches, headers etc
