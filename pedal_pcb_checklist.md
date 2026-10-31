@@ -7,6 +7,10 @@ house or making one yourself.
 
 * [ ] Has both HP & LP on the inputs
 
+* [ ] Has return paths for traces (GND plane/s, GND pins)
+
+* [ ] Doesn't have a VGND plane
+
 * [ ] Check orientation of pots and switches.
 
     <details>
