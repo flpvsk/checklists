@@ -11,6 +11,10 @@ house or making one yourself.
 
 * [ ] Doesn't have a VGND plane
 
+* [ ] Manufacturer's part matches KiCad footprint and pinout
+
+* [ ] No vias on pads
+
 * [ ] Check orientation of pots and switches.
 
     <details>
