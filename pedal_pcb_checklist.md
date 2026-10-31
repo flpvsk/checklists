@@ -3,6 +3,10 @@
 Things to verify before ordering a PCB from a manufacturing
 house or making one yourself.
 
+* [ ] Has input overload protection & overload protection after each gain stage
+
+* [ ] Has both HP & LP on the inputs
+
 * [ ] Check orientation of pots and switches.
 
     <details>
